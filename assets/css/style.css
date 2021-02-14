@@ -160,22 +160,22 @@ body {
   font-size: 38px;
 }
   
-  .section title {
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
-  }
+.section title {
+  font-size: 55px;
+  display: inline-block;
+  padding: 0 100px 20px 100px;
+  border-bottom: 3px solid;
+  margin-bottom: 35px;
+  color: #024e76;
+}
 
-  .primary-border {
-    border-color: #fce138
-  }
+.primary-border {
+  border-color: #fce138
+}
 
-  .secondary-border {
-    border-color: #39a6b2;
-  }
+.secondary-border {
+  border-color: #39a6b2;
+}
   
 
 .trainers {
@@ -266,3 +266,19 @@ body {
 }
 
 /* REACH OUT STYLES END */
+
+/* homepage hero */
+.hero {
+  margin: 20px;
+  background-color: white;
+  font-size: 20px;
+  color: blue;
+}
+
+/* secondary page hero */
+.hero-secondary {
+  margin: 20px;
+  background-color: black;
+  font-size: 20px;
+  color: red;
+}
